@@ -1,0 +1,16 @@
+{
+  "name": "huddle-landing-page-with-curved-sections-master",
+  "version": "1.0.0",
+  "description": "![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html --no-cache --open"
+  },
+  "keywords": [],
+  "author": "Arkaprava Bera",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.4.0",
+    "sass": "^1.49.9"
+  }
+}
